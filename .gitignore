@@ -1,0 +1,17 @@
+### PyCharm (Específico) ###
+.idea/
+cmake-build-*/
+venv/
+ENV/
+env/
+.venv/
+*.pyc
+__pycache__/
+
+### Archivos del Sistema ###
+.DS_Store
+Thumbs.db
+
+### Archivos de Diseño (Opcional) ###
+*.psd
+*.ai
